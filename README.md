@@ -7,6 +7,8 @@ Specify the folder to synchronize within SmugSynch.java and your SmugMug user/pa
 
 For every subfolder encountered, SmugSynch will create a folder on SmugMug and synchronize the contents.  Only new images will be uploaded.
 
+Includes eclipse project files and maven build script.
+
 TODO
 ----
 
