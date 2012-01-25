@@ -18,4 +18,4 @@ Known Limitations
 -----------------
 
 * Folders within folders are not synchronized
-* Only considers .JPG or .jpeg files
+* Only considers .jpg or .jpeg files
