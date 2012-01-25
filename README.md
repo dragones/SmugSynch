@@ -1,7 +1,7 @@
 SmugSynch
 =========
 
-Very simple synchronization utility for uploading local images to your SmugMug account.
+Very simple Java command line synchronization utility for uploading local images to your SmugMug account.
 
 Specify the folder to synchronize within SmugSynch.java and your SmugMug user/password in SmugMug.java.
 
